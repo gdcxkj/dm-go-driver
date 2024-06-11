@@ -1,4 +1,4 @@
-module dm
+module github.com/gdcxkj/dm-go-driver
 
 go 1.13
 
